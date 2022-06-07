@@ -7,3 +7,7 @@ kita akan belajar tentang dasar dari html dan css
 3) tools
 4) hosting (bisa menggunakan hosting apa saja kalau mau yang github silakan)
 
+
+
+
+https://www.mediafire.com/folder/yzjyx7z93122y/Techie //web
